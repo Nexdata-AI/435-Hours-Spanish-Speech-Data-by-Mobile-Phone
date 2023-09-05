@@ -4,7 +4,9 @@
 ## Description
 The data volumn is 435 hours and is recorded by 989 Spanish native speakers. The recording text is designed by linguistic experts, which covers general interactive, in-car and home category. The texts are manually proofread with high accuracy. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://bit.ly/3Sc1F4A
+For more details, please refer to the link: https://www.nexdata.ai/datasets/951?source=Github
+
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
